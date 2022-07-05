@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin-top: 0;
+  text-align: center;
+  font-family: arial, sans-serif;
+  font-family: cursive;
+}
+
+.profile {
+  width: auto;
+  height: auto;
+}
+
+.me {
+  height: 300px;
+  width: 300px;
+  border-radius: 70px;
+}
+
+h1 {
+  margin: 80px auto 0 auto;
+  font-family: 'sacramento', cursive;
+  font-size: 50px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'montserrat', sans-serif;
+  font-size: 2.5em;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-family: 'montserrat', sans-serif;
+  color: #11999E;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.first {
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.giphy {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Tennis {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.profile{
+  margin-top:70px;
+}
+
+.bottom-container {
+  background-color: lightblue;
+  padding: 20px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-link {
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #3cb0fd;
+}
+
+.footer-link:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.btn {
+  background: #3498db;
+  border-radius: 28px;
+  font-family: cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.dotted {
+  margin-bottom: 200px;
+}
+
+.down {
+  margin-bottom: 100px;
+  line-height: 2;
+}
+
+.contact-me {
+  margin-bottom: 100px;
+}
+.up-cloud{
+  position: absolute;
+  left: 300px;
+  top: 70px;
+}
+.down-cloud{
+  position: absolute;
+  left: 800px;
+  bottom: 100px;
+}
